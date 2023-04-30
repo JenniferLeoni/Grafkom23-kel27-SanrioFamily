@@ -1,0 +1,31 @@
+CAM
+a: kamera ke kiri
+d: kamera ke kanan
+
+BADZ
+p: badz lompat
+o: sayap kepak badz
+i: jumping jack badz
+u: jalan badz
+
+KUROM
+g: mata kedip
+h: kepala
+j: ekor
+k: jalan mundur
+l: jalan maju
+
+POMPOM
+x: mata kedip
+c: geleng serius
+v: geleng
+b: belly drum
+n: jalan mundur
+m: jalan maju
+
+CINNA:
+space: animasi lompat
+f: fly forward/float
+q: forward
+e: tegak
+s: mata kedip
